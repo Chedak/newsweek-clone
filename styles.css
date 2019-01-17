@@ -1,1 +1,13 @@
 /* In case we need it */
+
+header {
+  max-width: 1200px;
+}
+
+.pre-nav {
+  background-color: red;
+}
+
+.main {
+  max-width: 1200px;
+}
