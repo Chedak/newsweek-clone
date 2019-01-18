@@ -54,3 +54,8 @@ footer {
 .social img {
   max-height: 45px;
 }
+
+.sign-up-box {
+  max-width: 300px;
+  background-color: grey;
+}
