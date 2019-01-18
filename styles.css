@@ -12,13 +12,6 @@ ul {
   list-style: none;
 }
 
-li {
-  margin-bottom: 15px;
-  display: block;
-  width: 100%;
-  overflow: auto;
-}
-
 
 header {
   margin-bottom: 3px;
