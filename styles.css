@@ -4,12 +4,19 @@ body {
   background-color: #f4f5f6;
 }
 
-header {
-
-}
-
 .pre-nav {
   background-color: red;
+}
+.article-small img,
+.latest-news img {
+  max-height: 80px;
+  float: left;
+}
+
+.opinions img {
+  max-height: 50px;
+  float: left;
+  border-radius: 25px;
 }
 
 .main {
@@ -19,4 +26,8 @@ header {
 
 footer {
   background-color: white;
+}
+
+.social img {
+  max-height: 45px;
 }
