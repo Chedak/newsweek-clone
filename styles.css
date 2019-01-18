@@ -4,11 +4,25 @@ body {
   background-color: #f4f5f6;
 }
 
+section {
+  background-color: #fff;
+}
+
+header {
+  margin-bottom: 3px;
+}
+
+footer {
+  margin-top: 3px;
+}
+
 .pre-nav {
   background-color: red;
 }
 .article-small img,
-.latest-news img {
+.latest-news img,
+.pre-footer img,
+.most-read img {
   max-height: 80px;
   float: left;
 }
