@@ -8,6 +8,10 @@ section {
   background-color: #fff;
 }
 
+h3 {
+  font-size: 18px;
+}
+
 ul {
   list-style: none;
 }
