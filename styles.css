@@ -12,6 +12,14 @@ h3 {
   font-size: 18px;
 }
 
+.opinions a img,
+.latest-news a img,
+.digital a img,
+.print a img,
+.most-read a img {
+  margin-right: 10px;
+}
+
 ul {
   list-style: none;
 }
