@@ -104,6 +104,7 @@ footer {
 
 .issue-hold {
   position: relative;
+  margin-bottom: 0;
 }
 
 .in-the-news {
@@ -112,6 +113,22 @@ footer {
   color: red;
   background: rgba(255,255,255, .6);
   padding: 5px 10px;
+}
+
+.todays-issue a {
+  margin: 0;
+  background-color: #eee;
+  display: block;
+  width: auto;
+}
+
+.today-issue-features {
+    padding: 5px 10px;
+}
+
+.todays-issue a:hover {
+  background-color: #ccc;
+  color: black;
 }
 
 .pre-nav {
