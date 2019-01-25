@@ -12,6 +12,15 @@ h3 {
   font-size: 18px;
 }
 
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
 .pre-header,
 nav,
 .top-section,
