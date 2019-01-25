@@ -246,6 +246,31 @@ footer {
   text-decoration-color: red;
 }
 
+.facebook-button:before {
+content: "\f203";
+}
+
+.twitter-button:before {
+
+}
+
+.google+-button:before {
+
+}
+
+.instagram-button:before {
+
+}
+
+.tumblr-button:before {
+
+}
+
+.linkedin-button:before {
+
+}
+
+
 @media (min-width:1200px) {
     .container {
         max-width: 1340px !important;
