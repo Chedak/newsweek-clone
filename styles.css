@@ -107,12 +107,14 @@ footer {
   color:black;
 }
 
-.todays-issue .issue-hold {
+.todays-issue .issue-hold,
+.special-article {
   position: relative;
   margin-bottom: 0;
 }
 
-.in-the-news {
+.in-the-news,
+.special-caption {
   position: absolute;
   bottom: 0;
   color: red;
