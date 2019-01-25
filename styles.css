@@ -26,6 +26,10 @@ h3 {
   color: #000;
 }
 
+.in-the-magazine h3 {
+  font-size: 20px;
+}
+
 h4 {
   font-size: 17px;
   font-weight: 700;
@@ -81,7 +85,8 @@ footer {
 .latest-news a img,
 .digital a img,
 .print a img,
-.most-read a img {
+.most-read a img,
+.article-small img {
   margin-right: 10px;
 }
 
@@ -102,7 +107,7 @@ footer {
   color:black;
 }
 
-.issue-hold {
+.todays-issue .issue-hold {
   position: relative;
   margin-bottom: 0;
 }
@@ -123,12 +128,33 @@ footer {
 }
 
 .today-issue-features {
-    padding: 5px 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px 10px 8px;
 }
 
 .todays-issue a:hover {
   background-color: #ccc;
   color: black;
+}
+
+.in-the-magazine figure {
+  margin-bottom: 7px;
+}
+
+figure .category {
+  padding-top: 7px;
+  color: #f72210;
+  font-weight: 700;
+}
+
+figure .category span {
+  display: inline-block;
+  color: #fff;
+  background-color: #f72210;
+  padding: 3px 8px;
+  margin-right: 5px;
 }
 
 .pre-nav {
@@ -138,7 +164,6 @@ footer {
 .latest-news img,
 .pre-footer img,
 .most-read img {
-  padding: 0 10px;
   max-height: 80px;
   float: left;
 
