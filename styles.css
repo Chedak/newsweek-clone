@@ -9,6 +9,10 @@ section {
   background-color: #fff;
 }
 
+figure {
+  position: relative;
+}
+
 p {
   margin: 1rem 0 1rem;
 }
@@ -121,8 +125,9 @@ footer {
   position: absolute;
   bottom: 0;
   color: red;
-  background: rgba(255,255,255, .6);
+  background: rgba(255,255,255, .9);
   padding: 5px 10px;
+  font-weight: 700;
 }
 
 .todays-issue a {
