@@ -37,6 +37,11 @@ h3 {
   font-size: 20px;
 }
 
+.date {
+  color: white;
+  font-style: Times New Roman,Times,serif;
+}
+
 h4 {
   font-size: 17px;
   font-weight: 700;
