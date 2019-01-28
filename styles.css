@@ -79,9 +79,21 @@ footer {
   font-weight: 700;
 }
 
-/*.navbar-nav .nav-item:not(:last-child) .nav-link {
-   border-right: 1px solid #d9d9d9;
- }*/
+.sign-up-box {
+  background-color: #eee;
+  border: 1px solid #ddd;
+  max-width: 300px;
+}
+
+.sign-up-box h2 {
+  color: black;
+}
+
+.newsweek {
+  float: left;
+}
+
+
 .navbar-nav .nav-item:not(:last-child) .nav-link::after {
   margin-top: 5px;
   margin-left: 20px;
@@ -209,11 +221,6 @@ footer {
 
 .social img {
   max-height: 45px;
-}
-
-.sign-up-box {
-  max-width: 300px;
-  background-color: grey;
 }
 
 .single-article .related {
