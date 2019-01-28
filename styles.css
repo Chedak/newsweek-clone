@@ -255,6 +255,10 @@ footer {
   margin-bottom: 15px;
 }
 
+.social a {
+  font-size: 24px;
+  margin-left: 15px;
+}
 
 
 @media (min-width:1200px) {
