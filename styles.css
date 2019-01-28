@@ -246,29 +246,15 @@ footer {
   text-decoration-color: red;
 }
 
-.facebook-button:before {
-content: "\f203";
+.subscribe {
+  background-color: #f4f5f6;
 }
 
-.twitter-button:before {
-
+.subscribe-heading {
+  color: #f72210;
+  margin-bottom: 15px;
 }
 
-.google+-button:before {
-
-}
-
-.instagram-button:before {
-
-}
-
-.tumblr-button:before {
-
-}
-
-.linkedin-button:before {
-
-}
 
 
 @media (min-width:1200px) {
