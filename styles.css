@@ -123,6 +123,7 @@ header {
 
 footer {
   margin-top: 3px;
+  background-color: white;
 }
 
 .black {
@@ -209,11 +210,6 @@ figure .category span {
   display: block;
   width: 100%;
   overflow: auto;
-}
-
-
-footer {
-  background-color: white;
 }
 
 .social img {
