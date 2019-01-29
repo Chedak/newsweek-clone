@@ -191,7 +191,6 @@ figure .category span {
 }
 .article-small img,
 .latest-news img,
-/*.pre-footer img,*/
 .most-read img {
   max-height: 80px;
   float: left;
